@@ -2,8 +2,6 @@
 
 I'm a full-stack developer with 7 years experience working exclusively in fintech and crypto. In my last job I acted as tech lead at [Shakepay](https://shakepay.com) for the cash squad where I led a team that managed core payments infrastructure. Now I'm running [Soulbound Labs](https://www.soulboundlabs.com), an AI-native studio. Our house product is [**Clawcraft**](https://www.getclawcraft.com), a multi-tenant AI agent runtime.
 
-We're currently consulting for SMBs and startups to streamline processes with AI, ship products and grow customer-bases. If you're interested in our services please reach out! [rei@soulboundlabs.com](mailto:rei@soulboundlabs.com) 
-
 ### What I'm passionate about**
 
 I work with my close friend [@mariana-oka](https://github.com/mariana-oka) on many projects. We're interested in the intersection of technology and art. Together we wrote and illustrated ['A Velveteen Rabbit'](https://avelveteenrabbit.com), a re-imagining of the classic children's story written by Margery Williams re-imagined for the AI era.
@@ -20,5 +18,4 @@ We've also consistently won at least one hackathon the past 4 years. Here are th
 ### Contact
 * You can read my [CV](https://www.rei.gg/rei-nova-cv.pdf) here. 
 * You can view more of my doodlings on my personal [website](https://rei.gg).
-
-Looking forward to meeting you!
+* We're currently consulting for SMBs and startups to streamline processes with AI, ship products and grow customer-bases. If you're interested in our services please reach out! [rei@soulboundlabs.com](mailto:rei@soulboundlabs.com) 
